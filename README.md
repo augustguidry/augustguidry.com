@@ -1,2 +1,3 @@
-# augustguidry.github.io
+# augustguidry.com
+
 Website of August Guidry
